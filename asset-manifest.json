@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/system_minha-carteira_react_typescript/static/js/main.ee40ad6b.chunk.js",
-    "main.js.map": "/system_minha-carteira_react_typescript/static/js/main.ee40ad6b.chunk.js.map",
+    "main.js": "/system_minha-carteira_react_typescript/static/js/main.0df0c1a6.chunk.js",
+    "main.js.map": "/system_minha-carteira_react_typescript/static/js/main.0df0c1a6.chunk.js.map",
     "runtime-main.js": "/system_minha-carteira_react_typescript/static/js/runtime-main.a5afe89d.js",
     "runtime-main.js.map": "/system_minha-carteira_react_typescript/static/js/runtime-main.a5afe89d.js.map",
-    "static/js/2.67f0a89a.chunk.js": "/system_minha-carteira_react_typescript/static/js/2.67f0a89a.chunk.js",
-    "static/js/2.67f0a89a.chunk.js.map": "/system_minha-carteira_react_typescript/static/js/2.67f0a89a.chunk.js.map",
+    "static/js/2.2c0ea1a2.chunk.js": "/system_minha-carteira_react_typescript/static/js/2.2c0ea1a2.chunk.js",
+    "static/js/2.2c0ea1a2.chunk.js.map": "/system_minha-carteira_react_typescript/static/js/2.2c0ea1a2.chunk.js.map",
     "index.html": "/system_minha-carteira_react_typescript/index.html",
-    "precache-manifest.56c3abb7fbea86df3433a4a63006f421.js": "/system_minha-carteira_react_typescript/precache-manifest.56c3abb7fbea86df3433a4a63006f421.js",
+    "precache-manifest.ade0a951d86b7c5dbac1fff2afdf9b83.js": "/system_minha-carteira_react_typescript/precache-manifest.ade0a951d86b7c5dbac1fff2afdf9b83.js",
     "service-worker.js": "/system_minha-carteira_react_typescript/service-worker.js",
-    "static/js/2.67f0a89a.chunk.js.LICENSE.txt": "/system_minha-carteira_react_typescript/static/js/2.67f0a89a.chunk.js.LICENSE.txt",
+    "static/js/2.2c0ea1a2.chunk.js.LICENSE.txt": "/system_minha-carteira_react_typescript/static/js/2.2c0ea1a2.chunk.js.LICENSE.txt",
     "static/media/arrow-down.svg": "/system_minha-carteira_react_typescript/static/media/arrow-down.81059ca2.svg",
     "static/media/arrow-up.svg": "/system_minha-carteira_react_typescript/static/media/arrow-up.ecbbd9cf.svg",
     "static/media/dolar.svg": "/system_minha-carteira_react_typescript/static/media/dolar.d56dac33.svg",
@@ -21,7 +21,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a5afe89d.js",
-    "static/js/2.67f0a89a.chunk.js",
-    "static/js/main.ee40ad6b.chunk.js"
+    "static/js/2.2c0ea1a2.chunk.js",
+    "static/js/main.0df0c1a6.chunk.js"
   ]
 }
