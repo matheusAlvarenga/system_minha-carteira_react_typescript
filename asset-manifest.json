@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/system_minha-carteira_react_typescript/static/js/main.d4fdfad2.chunk.js",
-    "main.js.map": "/system_minha-carteira_react_typescript/static/js/main.d4fdfad2.chunk.js.map",
+    "main.js": "/system_minha-carteira_react_typescript/static/js/main.ee40ad6b.chunk.js",
+    "main.js.map": "/system_minha-carteira_react_typescript/static/js/main.ee40ad6b.chunk.js.map",
     "runtime-main.js": "/system_minha-carteira_react_typescript/static/js/runtime-main.a5afe89d.js",
     "runtime-main.js.map": "/system_minha-carteira_react_typescript/static/js/runtime-main.a5afe89d.js.map",
     "static/js/2.67f0a89a.chunk.js": "/system_minha-carteira_react_typescript/static/js/2.67f0a89a.chunk.js",
     "static/js/2.67f0a89a.chunk.js.map": "/system_minha-carteira_react_typescript/static/js/2.67f0a89a.chunk.js.map",
     "index.html": "/system_minha-carteira_react_typescript/index.html",
-    "precache-manifest.c5ee998cfdb32965f4fdb045291e7721.js": "/system_minha-carteira_react_typescript/precache-manifest.c5ee998cfdb32965f4fdb045291e7721.js",
+    "precache-manifest.56c3abb7fbea86df3433a4a63006f421.js": "/system_minha-carteira_react_typescript/precache-manifest.56c3abb7fbea86df3433a4a63006f421.js",
     "service-worker.js": "/system_minha-carteira_react_typescript/service-worker.js",
     "static/js/2.67f0a89a.chunk.js.LICENSE.txt": "/system_minha-carteira_react_typescript/static/js/2.67f0a89a.chunk.js.LICENSE.txt",
     "static/media/arrow-down.svg": "/system_minha-carteira_react_typescript/static/media/arrow-down.81059ca2.svg",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.a5afe89d.js",
     "static/js/2.67f0a89a.chunk.js",
-    "static/js/main.d4fdfad2.chunk.js"
+    "static/js/main.ee40ad6b.chunk.js"
   ]
 }

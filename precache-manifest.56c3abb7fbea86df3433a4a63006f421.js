@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e703498bc9a5213b660e37d6793f038",
+    "revision": "cfd5a4ec258f32552bc7733c4207fd05",
     "url": "/system_minha-carteira_react_typescript/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/system_minha-carteira_react_typescript/static/js/2.67f0a89a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f280e0336f12ce8ecb0e",
-    "url": "/system_minha-carteira_react_typescript/static/js/main.d4fdfad2.chunk.js"
+    "revision": "c3ca96d0f168bb197e21",
+    "url": "/system_minha-carteira_react_typescript/static/js/main.ee40ad6b.chunk.js"
   },
   {
     "revision": "66240b0c4713a8ec4c38",
