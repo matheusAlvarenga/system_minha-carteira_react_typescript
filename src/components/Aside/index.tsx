@@ -62,12 +62,12 @@ const Aside: React.FC = () => {
                     Dashboard
                 </MenuItemLink>
 
-                <MenuItemLink href="https://matheusalvarenga.github.io/system_minha-carteira_react_typescript/list/entry-balance">
+                <MenuItemLink to="/list/entry-balance">
                     <MdArrowUpward />
                     Entradas
                 </MenuItemLink>
 
-                <MenuItemLink href="https://matheusalvarenga.github.io/system_minha-carteira_react_typescript/list/exit-balance">
+                <MenuItemLink to="/list/exit-balance">
                     <MdArrowDownward />
                     Saídas
                 </MenuItemLink>
